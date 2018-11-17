@@ -12,7 +12,7 @@
                     }
                 </style>
                 <h2 class="text-center">Q&amp;A 게시판</h2>
-                <h3><%= Message %></h3>
+                <h4><%= Message %></h4>
                 <asp:Label ID="lblTitleDescription" runat="server" ForeColor="#ff0000" Visible="false"></asp:Label>
                 <hr />
                 <%--글쓰기 폼 테이블 시작--%>

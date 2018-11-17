@@ -36,7 +36,7 @@
                         <div class="card-body">
 
                             <h2 class="text-center">Q&amp;A 게시판</h2>
-                            <h3>글 보기 - 현재 글에 대해서 수정 및 삭제를 할 수 있습니다.</h3>
+                            <h4>글 보기 - 현재 글에 대해서 수정 및 삭제를 할 수 있습니다.</h4>
                             <hr />
 
                             <table style="width: 700px; margin-left: auto; margin-right: auto;">

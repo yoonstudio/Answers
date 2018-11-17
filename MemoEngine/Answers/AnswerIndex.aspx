@@ -42,7 +42,7 @@
                         <div class="card-body">
 
                             <h2 class="text-center">Q&amp;A 게시판</h2>
-                            <h3>글 목록 - Q&amp;A 게시판입니다.</h3>
+                            <h4>글 목록 - Q&amp;A 게시판입니다.</h4>
                             <hr />
                             <table style="width: 100%; margin: 0 auto;">
                                 <tr>
